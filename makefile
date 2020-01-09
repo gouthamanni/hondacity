@@ -1,10 +1,10 @@
 ABC.exe:big3.c reverse.c main.c
-	gcc -o ABC.exe big3.o reverse.o main.o
+	gcc -O  ABC.exe big3.O reverse.O main.O
 
-big3.o:big3.c
+big3.O:big3.c
 	gcc -c big3.c
-reverse.o:reverse.c
+reverse.O:reverse.c
 	gcc -c reverse.c
-main.o:main.o
+main.O:main.c
 	gcc -c main.c
 
