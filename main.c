@@ -1,4 +1,4 @@
-Void Main() {
+void main() {
 	big();
-	reverse();
+	rev();
 }
