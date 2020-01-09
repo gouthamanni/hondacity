@@ -1,7 +1,6 @@
 #include <stdio.h>
  
-void big()
-{
+void big(){
     int num1, num2, num3;
  
     printf("Enter the values of num1, num2 and num3\n");
