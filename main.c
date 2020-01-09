@@ -1,0 +1,4 @@
+Void Main() {
+	big();
+	reverse();
+}
